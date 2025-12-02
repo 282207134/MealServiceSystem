@@ -1,0 +1,13 @@
+sb_publishable_KkfGY9UdHDrMZ0_KM1rGAw_lLvn3LkF项目网址
+https://fpxdfnevjeyzxuzhfumb.supabase.co
+
+复制
+用于查询和管理数据库的 RESTful 端点。
+API密钥
+
+anon
+public
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZweGRmbmV2amV5enh1emhmdW1iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ1MTI1ODEsImV4cCI6MjA4MDA4ODU4MX0.8H8XXTHkDsZtPb2Vgqm-BY99vNS06LBUUnhcMj6mAjY
+
+复制
+如果您已为表启用行级别安全性 (RLS) 并配置了策略，则可以在浏览器中安全地使用此密钥。您也可以使用此处提供的服务密钥来绕过 RLS。
